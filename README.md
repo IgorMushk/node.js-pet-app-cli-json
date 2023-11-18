@@ -18,3 +18,12 @@
 - isVaccinated (boolean)
 - gender ('male' | 'female')
 - species (string)
+
+# $ node index.js get-animal
+![Screenshoot-1](./assets\screenshot1.jpg)
+
+# $ node index.js create-animal '{"name": "Vasyl", "age": 5, "isVaccinated": true, "gender": "male", "species": "cat"}'
+![Screenshoot-2](./assets\screenshot2.jpg)
+
+# $ node index.js get-animal --id pqKP4ZTU4WQ3SNdvDOBf2
+![Screenshoot-3](./assets\screenshot3.jpg)

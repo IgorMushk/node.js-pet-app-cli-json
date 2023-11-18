@@ -49,6 +49,16 @@
       "isVaccinated": true,
       "gender": "male",
       "species": "cat"
+    },
+    {
+      "id": "4ox-OfRQtVPZCsqc1dEwX",
+      "createdAt": "2023-11-18T19:30:18.878Z",
+      "updateAt": "2023-11-18T19:30:18.878Z",
+      "name": "Bobik",
+      "age": 5,
+      "isVaccinated": true,
+      "gender": "male",
+      "species": "dog"
     }
   ]
 }
